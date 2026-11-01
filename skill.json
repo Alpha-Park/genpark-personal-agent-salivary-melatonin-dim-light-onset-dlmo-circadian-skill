@@ -1,0 +1,20 @@
+{
+  "name": "genpark-personal-agent-salivary-melatonin-dim-light-onset-dlmo-circadian-skill",
+  "version": "1.0.0",
+  "description": "Dim Light Melatonin Onset (DLMO) circadian phase marker, biological night onset & phase advance/delay auditor.",
+  "category": "personal_agent",
+  "author": "GenPark AI",
+  "website": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "main": "skills.py",
+  "tools": [
+    {
+      "name": "audit_circadian_dlmo_phase",
+      "description": "Dim Light Melatonin Onset (DLMO) circadian phase marker, biological night onset & phase advance/delay auditor.",
+      "sample_input": {
+        "dlmo_time_decimal_hours": 21.75,
+        "habitual_sleep_onset_decimal_hours": 23.5
+      }
+    }
+  ]
+}
