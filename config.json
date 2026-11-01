@@ -1,0 +1,7 @@
+{
+  "engine": "genpark-mcp-kernel-v1",
+  "skill_id": 358,
+  "skill_name": "genpark-personal-agent-salivary-melatonin-dim-light-onset-dlmo-circadian-skill",
+  "vendor": "GenPark AI",
+  "endpoint": "https://www.genpark.ai/api/v1/skills"
+}
